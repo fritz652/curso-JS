@@ -1,2 +1,1 @@
-// Notación de corchetes: Primer caracter
-
+// Modificar elementos de un arreglo

@@ -2,6 +2,6 @@
 // esta es simplemente saber la cantidad de espacios que hay en una cadena de caracteres
 
 var miCadena;
-    miCadena ="A"
+    miCadena ="JavaScript"
 
     console.log(miCadena.length)

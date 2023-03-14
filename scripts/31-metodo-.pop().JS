@@ -1,4 +1,4 @@
-// Metodo pop: remuev el ultimo elemento de de un arregle
+// Metodo .pop(): remueve el ultimo elemento de de un arreglo
 
 var estaciones;
 

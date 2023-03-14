@@ -1,17 +1,13 @@
-// Incrementar el valor de una  variable en 1 
+// Asignación de division
 
-var librosComprados = 105;
+var a = 20;
+ a = a / 5;
 
-console.log(librosComprados);
+ console.log(a);
 
+ // forma consisa
 
-//Opcion 1
+ var b = 20;
+     b /= 5;
 
-librosComprados = librosComprados +1 ;
-
-console.log(librosComprados);
-
-// Opcion 2;
-
-librosComprados++;
-console.log(librosComprados)
+     console.log(b);

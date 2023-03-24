@@ -8,3 +8,4 @@ function sumar(a, b){
     console.log(a + b);
 }
 
+console.log(sumar(3,5));

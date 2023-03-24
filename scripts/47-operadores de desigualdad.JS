@@ -1,6 +1,8 @@
-// Operadores de Igualdad
-console.log(5==5); //true
+// Operadores de desigualdad
 
-console.log(5==6); //false
+console.log(9 != 6); // el operador != es de desigualdad
 
-console.log("Hola"=="hola"); // false
+
+
+
+console.log([1,2,3] !== [1,2,3]); //true, el operador de desigualdad no puede comprar objetos, por eso arroja true.

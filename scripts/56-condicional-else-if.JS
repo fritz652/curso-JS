@@ -1,4 +1,4 @@
-// Sentencias Condicionales elese if
+// Sentencias Condicionales else if
 
 
 // Ejemplo 01

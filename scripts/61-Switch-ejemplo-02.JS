@@ -6,11 +6,11 @@ var producto = "hamburguesa";
 switch (producto) {
     case "Pizza":
         console.log("La pizza basica cuesta $10.55");
-        breack;
+        break;
     case "hamburguesa":
         console.log("Las hamburguesas cuestas $6.78");
-        breack;
+        break;
     case "helado":
         console.log("El helado cuesta $2.8");
-        breack;
+        break;
 }

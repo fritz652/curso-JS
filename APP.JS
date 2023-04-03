@@ -1,23 +1,15 @@
 
-//66-crear-objetos
+//70-acceder-a-propiedades-con-variables
 
-// Un obseto  en js biene a estar dada por una variable definida por let o var
-// a la cual mdiante le signo = se le asigna  un conjunto de propiedades y valores 
-// separados por una coma a excepcion del ultimo. Este conjunto de propiedades y valores estan
-// dentro de unas { } segida de un punto y coma.
-
-var miPerro = {
-    "nombre": "Gino",
-    "edad": 5,
-    "peso" : 6,
-    "raza" : "beagle"
+var resultado = {
+    1: "Fritz10",
+    2: "Carlos75",
+    3: "Marco55",
+    4: "Fernando"
 };
 
+var poscion = 1; // se le asigna una varible a la propiedad, para que cuando cambie esta
+                // se actualice, esto es coveniente porque la variable puede estar 
+                // en otro lado y asi se podria actulaizar
 
-// nota: las propiedades peuden ser string u números
-
-var miObjeto = {
-    5 : "cinco",
-    6 :"seis"
-}
-
+console.log(resultado[poscion]); // Fritz10

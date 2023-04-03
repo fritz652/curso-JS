@@ -1,5 +1,5 @@
 
-//66-crear-objetos
+//67-crear-objetos
 
 // Un obseto  en js biene a estar dada por una variable definida por let o var
 // a la cual mdiante le signo = se le asigna  un conjunto de propiedades y valores 

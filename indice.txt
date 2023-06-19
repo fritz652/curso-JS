@@ -1,0 +1,42 @@
+
+
+05:24:06 Verificar propiedades 
+05:29:17 Objetos complejos
+05:36:42 Objetos anidados
+05:45:43 Arreglos anidados
+05:52:11 Colección de discos
+06:05:07 Ciclo "while"
+06:16:04 Ciclo "for" 
+06:21:28 Ciclos "for": números impares
+06:24:15 Ciclos "for": contar hacia atrás 
+06:28:31 Iterar sobre un arreglo con un ciclo "for" 
+06:39:30 Ciclos "for" anidados 
+06:47:12 Ciclos "do...while"
+06:52:31 Búsqueda de Perfil
+07:03:15 Números aleatorios
+07:06:46 Números enteros aleatorios 
+07:12:50 Números enteros aleatorios en un rango 
+07:16:17 Función parseInt()
+07:20:39 Función parseInt() con una base 
+07:23:11 Operador condicional (ternario) 
+07:29:12 Múltiples operadores condicionales 
+07:35:10 var vs. let 
+07:37:18 Ámbito de var vs. let 
+07:44:39 const en JavaScript
+07:49:30 Mutar un arreglo declarado con const 
+07:51:55 Crear un objeto immutable
+07:56:19 Funciones flecha
+07:59:05 Funciones flecha con parámetros
+08:04:52 Valores por defecto para parámetros
+08:06:48 Operador rest
+08:12:32 Operador spread 
+08:14:50 Sintaxis de desestructuración 
+08:18:49 Sintaxis de desestructuración: objetos anidados
+08:28:56 Sintaxis de desestructuración: arreglos
+08:33:40 Sintaxis de desestructuración con el operador rest
+08:38:30 Sintaxis de desestructuración: pasar objeto como argumento
+08:46:21 Plantillas literales 
+08:54:14 Crear objetos de forma concisa
+08:57:13 Métodos
+09:02:04 Definir una clase
+09:08:55 Getters y setters

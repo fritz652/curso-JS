@@ -8,5 +8,7 @@ var miCuaderno = {
     "precio": 4.56,
 }
 
+//hasOwnProperty: se podria traducir como: ¿tiene esta propiedad?
 
-console.log(miCuaderno.hasOwnProperty("color")); //true
+console.log(miCuaderno.hasOwnProperty("color")); //true  
+console.log(miCuaderno.hasOwnProperty("origen")); //false

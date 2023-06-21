@@ -29,6 +29,6 @@ function myfuction(x){
     }
 }
 
-myfuction(4);
+myfuction(2);
 myfuction(1);
 

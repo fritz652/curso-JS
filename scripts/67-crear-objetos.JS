@@ -14,7 +14,7 @@ var miPerro = {
 };
 
 
-// nota: las propiedades peuden ser string u números
+// nota: las propiedades pueden ser string u números
 
 var miObjeto = {
     5 : "cinco",

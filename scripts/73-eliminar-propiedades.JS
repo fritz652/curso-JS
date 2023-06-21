@@ -7,5 +7,5 @@ var  curso = {
 };
 
 delete curso.duracion;
-console.log(curso);  // { titulo: 'Aprende JavaScript desde Cero', 'Español'}
+console.log(curso);  // { titulo: 'Aprende JavaScript desde Cero', idioma: 'Español'}
 console.log(curso.duracion); //undefined
